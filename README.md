@@ -7,7 +7,7 @@
 
 - 👨‍💻 My department at University is **Computer Engineering**
 
-- 🌱 I’m currently learning **Kotlin for Android**
+- 🌱 I’m currently focused at **Kotlin for Android**
 
 - 👀 I'm interested in **Mobile Development**
 
