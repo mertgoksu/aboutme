@@ -48,7 +48,6 @@
 <br><br>
 ## Stats:
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertgoksumg&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" height="180" alt="stats graph" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=mertgoksumg&theme=dracula&hide_border=true" height="180" alt="streak graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertgoksumg&theme=dracula" height="180" alt="repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertgoksumg&theme=dracula" height="180" alt="profile details" />
