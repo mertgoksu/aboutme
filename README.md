@@ -46,12 +46,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <br><br>
-## Stats:
-<div align="start">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mertgoksumg&theme=dracula&hide_border=true" height="180" alt="streak graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertgoksumg&theme=dracula" height="180" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertgoksumg&theme=dracula" height="180" alt="profile details" />
-</div>
 <br clear="both">
 <br><br>
 <br><br>
